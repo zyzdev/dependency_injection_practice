@@ -15,3 +15,5 @@ DI, feed car type and CarProduct is the car of the type.
 
 #### Alice&Jerry
 Car owner with two different type of car.
+
+<img src="./DI structure.drawio.png" width="500" />
